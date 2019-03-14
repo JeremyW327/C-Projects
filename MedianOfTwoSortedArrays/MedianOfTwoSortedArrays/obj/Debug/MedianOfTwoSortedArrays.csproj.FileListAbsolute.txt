@@ -1,0 +1,6 @@
+C:\Users\Jeremy\source\repos\LeetCodeProblems\MedianOfTwoSortedArrays\MedianOfTwoSortedArrays\bin\Debug\MedianOfTwoSortedArrays.exe.config
+C:\Users\Jeremy\source\repos\LeetCodeProblems\MedianOfTwoSortedArrays\MedianOfTwoSortedArrays\bin\Debug\MedianOfTwoSortedArrays.exe
+C:\Users\Jeremy\source\repos\LeetCodeProblems\MedianOfTwoSortedArrays\MedianOfTwoSortedArrays\bin\Debug\MedianOfTwoSortedArrays.pdb
+C:\Users\Jeremy\source\repos\LeetCodeProblems\MedianOfTwoSortedArrays\MedianOfTwoSortedArrays\obj\Debug\MedianOfTwoSortedArrays.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\source\repos\LeetCodeProblems\MedianOfTwoSortedArrays\MedianOfTwoSortedArrays\obj\Debug\MedianOfTwoSortedArrays.exe
+C:\Users\Jeremy\source\repos\LeetCodeProblems\MedianOfTwoSortedArrays\MedianOfTwoSortedArrays\obj\Debug\MedianOfTwoSortedArrays.pdb
