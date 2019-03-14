@@ -1,0 +1,9 @@
+D:\C#Projects\ChangeReturn\ChangeReturn\bin\Debug\ChangeReturn.exe.config
+D:\C#Projects\ChangeReturn\ChangeReturn\bin\Debug\ChangeReturn.exe
+D:\C#Projects\ChangeReturn\ChangeReturn\bin\Debug\ChangeReturn.pdb
+D:\C#Projects\ChangeReturn\ChangeReturn\obj\Debug\ChangeReturn.Form1.resources
+D:\C#Projects\ChangeReturn\ChangeReturn\obj\Debug\ChangeReturn.Properties.Resources.resources
+D:\C#Projects\ChangeReturn\ChangeReturn\obj\Debug\ChangeReturn.csproj.GenerateResource.Cache
+D:\C#Projects\ChangeReturn\ChangeReturn\obj\Debug\ChangeReturn.csproj.CoreCompileInputs.cache
+D:\C#Projects\ChangeReturn\ChangeReturn\obj\Debug\ChangeReturn.exe
+D:\C#Projects\ChangeReturn\ChangeReturn\obj\Debug\ChangeReturn.pdb
